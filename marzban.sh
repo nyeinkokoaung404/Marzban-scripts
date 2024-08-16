@@ -132,7 +132,7 @@ install_marzban_script() {
 install_marzban() {
     local marzban_version=$1
     # Fetch releases
-    FILES_URL_PREFIX="https://raw.githubusercontent.com/Gozargah/Marzban/master"
+    FILES_URL_PREFIX="https://raw.githubusercontent.com/nyeinkokoaung404/Marzban/master"
     
     mkdir -p "$DATA_DIR"
     mkdir -p "$APP_DIR"
